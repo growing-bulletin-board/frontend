@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BulletinBoard</string>
+    <string name="main_logo_title">Growing-Bulletin-Board</string>
+    <string name="google_login_title">Google Login</string>
 </resources>
